@@ -1,0 +1,338 @@
+body {
+    box-sizing: border-box;
+    font-style: normal;
+    line-height: normal;
+    color: #000;
+    font-family: Prata;
+}
+
+section {
+    position: relative;
+}
+
+.block {
+    padding-top: 90px;
+}
+
+.background {
+    position: absolute;
+}
+
+.header {
+    font-size: 200px;
+    font-weight: 400;
+    letter-spacing: 23px;
+    text-align: center;
+    padding-top: 230px;
+}
+
+.outlines {
+    margin-bottom: 253px;
+}
+
+.header1{
+    font-size: 48px;
+    margin-left: 48px;
+    margin-bottom: 23px;
+}
+
+.block_2 {
+    padding-top: 330px;
+}
+
+.block_3 {
+    margin-top: 100px;
+}
+
+.underHeader1 {
+    font-size: 36px;
+    margin-top: 18px;
+    margin-left: 48px;
+}
+
+.background_1 {
+    margin-left: 48px;
+}
+
+.line {
+    margin-left: 48px;
+}
+
+.underHeader2 {
+    font-size: 36px;
+    text-align: right;
+    margin-right: 110px;
+}
+
+.underUnder2 {
+    font-size: 180px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+.line_2 {
+    margin-left: 744px;
+    position: absolute;
+}
+
+.numbers {
+    display: flex;
+    justify-content: center;
+    gap: 160px;
+}
+
+.numbers span {
+    width: 135px;
+    height: 285px;
+}
+
+.words span {
+    font-size: 200px;
+    font-style: normal;
+    line-height: normal;
+    margin-left: 48px;
+}
+
+.underHeader3 {
+    font-size: 36px;
+    margin-left: 48px;
+    text-align: left;
+}
+
+.words2 {
+    font-size: 1000px;
+    margin-left: 406px;
+    height: 700px;
+}
+
+.bits {
+    margin-left: 115px;
+}
+
+.header2 {
+    font-size: 48px;
+    text-align: right;
+}
+
+.abd {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 88px;
+}
+
+.vivaldi {
+    position: absolute;
+    top: 145px;
+    left: 118px;
+    font-size: 100px;
+    font-weight: 400;
+}
+
+.fourSeasons {
+    position: absolute;
+    top: 262px;
+    left: 144px;
+    font-size: 36px;
+}
+
+.date {
+    position: absolute;
+    top: 798px;
+    left: 428px;
+    font-size: 24px;
+}
+
+.vivaldi2 {
+    position: absolute;
+    top: 1269px;
+    right: 178px;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.date2 {
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    top: 1278px;
+    right: 484px;
+}
+
+.word {
+    font-size: 500px;
+    position: absolute;
+    top: 541px;
+    right: 315px;
+
+}
+
+.vi {
+    position: absolute;
+    font-size: 36px;
+    top: 1600px;
+    left: 142px;
+}
+
+.va {
+    position: absolute;
+    font-size: 300px;
+    top: 1338px;
+    left: 161px;
+}
+
+.ldi {
+    position: absolute;
+    font-size: 36px;
+    top: 1600px;
+    left: 558px;
+}
+
+.date3 {
+    position: absolute;
+    font-size: 36px;
+    bottom: 1069px;
+    right: 184px;
+}
+
+.ldi2 {
+    position: absolute;
+    font-size: 200px;
+    bottom: 750px;
+    right: 157px;
+}
+
+.section {
+    height: 1300px;
+}
+
+.one {
+    position: absolute;
+    font-size: 128px;
+    left: 96px;
+    top: 101px;
+}
+
+.two1 {
+    position: absolute;
+    font-size: 300px;
+    right: 339px;
+    top: 50px;
+}
+
+.two2 {
+    position: absolute;
+    font-size: 48px;
+    right: 449px;
+    right: 172px;
+    top: 300px;
+}
+
+.three {
+    position: absolute;
+    font-size: 48px;
+    top: 366px;
+    left: 243px;
+}
+
+.four {
+    position: absolute;
+    font-size: 40px;
+    top: 422px;
+    left: 632px;
+}
+
+.five {
+    position: absolute;
+    font-size: 300px;
+    left: 273px;
+    top: 500px;
+}
+
+.six {
+    position: absolute;
+    font-size: 96px;
+    top: 953px;
+    left: 195px;
+}
+
+.seven {
+    position: absolute;
+    font-size: 64px;
+    top: 1044px;
+    right: 401px;
+}
+
+.eight {
+    position: absolute;
+    font-size: 48px;
+    top: 933px;
+    right: 147px;
+}
+
+.nine {
+    position: absolute;
+    font-size: 36px;
+    right: 281px;
+    top: 462px;
+}
+
+.last-section {
+    margin-bottom: 253px;
+}
+
+.img-block {
+    display: flex;
+    justify-content: center;
+}
+
+.img-block2 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.prta1 {
+    position: absolute;
+    bottom: 235px;
+    left: 148px;
+    font-size: 128px;
+}
+
+.prta2 {
+    position: absolute;
+    bottom: 235px;
+    right: 194px;
+    font-size: 128px;
+}
+
+.last2 {
+    transform: translate(-25px, 0);
+}
+
+footer {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name, .group {
+    font-size: 48px;
+}
+
+.name {
+    margin-left: 22px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    margin-right: 46px;
+}
